@@ -1,4 +1,4 @@
-MPF Portal (from servelet to API portal)
+MPF Portal (from servlet to API portal)
 ==========
 
 Final goal, which is:
