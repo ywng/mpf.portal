@@ -7,6 +7,8 @@ an API: http://mpf.vis.ywng.cloudbees.net/AllUnitPrice
 
 a daily extracter: http://mpf.vis.ywng.cloudbees.net/GetUnitPrice
 
+an application makes use of the API: http://mpf.vis.ywng.cloudbees.net/
+
 A serverlet program:
 
 1. extracting online data from webpages
