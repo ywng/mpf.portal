@@ -43,8 +43,8 @@ public class MySqlAccess{
 
     	Class.forName("com.mysql.jdbc.Driver");
     	dbURL = "jdbc:mysql://db4free.net:3306/hangsengmpf";
-    	username ="ngyikwai";
-    	password = "ngyikwai6016";
+    	username ="xxxxx";
+    	password = "xxxxxx";
        
         dbCon = null;
         //getting database connection to MySQL server
